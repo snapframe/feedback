@@ -1,6 +1,5 @@
 # SnapFrame - Stop Sharing Boring Screenshots
-
-![promo-1280x720](https://github.com/user-attachments/assets/a499eb43-1f4c-4979-8c4b-22bf61787fd6)
+![promo-800x600](https://github.com/user-attachments/assets/ba72c7f1-638a-4d11-a9a3-4143bf457dc1)
 
 ## SnapFrame Feedback
 
