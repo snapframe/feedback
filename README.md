@@ -1,4 +1,4 @@
-# SnapFrame - Stop Sharing Boring Screenshots
+# 🚀 SnapFrame — stop sharing boring screenshots!
 ![promo-800x600](https://github.com/user-attachments/assets/ba72c7f1-638a-4d11-a9a3-4143bf457dc1)
 
 ## SnapFrame Feedback
